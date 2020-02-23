@@ -1,0 +1,5 @@
+SamanHina,100
+ShariqMehmood,200
+NajeedAhmed,300
+ImranSheikh,400
+KarimKazi,500
